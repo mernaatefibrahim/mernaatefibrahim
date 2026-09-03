@@ -8,6 +8,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!+%F0%9F%8E%80;AI+%26+Data+Science+Enthusiast+%F0%9F%92%97;Machine+Learning+Explorer+%F0%9F%A4%96;Always+Learning%2C+Always+Building+%E2%9C%A8" />
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/vRlwdI6ZTKFr1V9R7l/giphy.gif" width="300"/>
+</p>
+
 > 💗 Learning, building, and turning data into intelligent solutions.
 
 ---
@@ -84,39 +88,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-FADADD?style=for-the-badge&logo=github&logoColor=181717)
 ![VS Code](https://img.shields.io/badge/VS%20Code-FADADD?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
 ![Linux](https://img.shields.io/badge/Linux-FADADD?style=for-the-badge&logo=linux&logoColor=FCC624)
-
----
-
-## 🌷 Featured Projects
-
-### 🏠 Bangalore Home Price Prediction
-
-A Machine Learning project that predicts house prices based on:
-
-- 📐 Area
-- 🛁 Number of bathrooms
-- 🛏️ Number of bedrooms
-- 📍 Location
-
-**Technologies:**  
-`Python` `Pandas` `NumPy` `Scikit-learn` `Linear Regression`
-
----
-
-### 🧠 Deep Learning Experiments
-
-Hands-on experiments with neural networks and different deep learning concepts, including:
-
-- Neural Networks
-- Keras Sequential Models
-- Activation Functions
-- Optimizers
-- Batch Normalization
-- Dropout
-- Model Training
-
-**Technologies:**  
-`Python` `TensorFlow` `Keras`
 
 ---
 
