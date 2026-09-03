@@ -1,16 +1,182 @@
-## Hi there 👋
+# ✨ Hey there, I'm Merna Atef 👋🏻🎀
 
-<!--
-**mernaatefibrahim/mernaatefibrahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌷 AI & Data Science Enthusiast
+### 🎓 Computer Engineering Student
+### 🤖 Machine Learning Explorer
 
-Here are some ideas to get you started:
+> 💗 Learning, building, and turning data into intelligent solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💗 About Me
+
+🎓 I'm a **fifth-year Computer Engineering student** passionate about **Artificial Intelligence, Machine Learning, and Data Science**.
+
+🌸 I enjoy learning how data can be transformed into meaningful insights and intelligent systems.
+
+🧠 Currently exploring **Machine Learning, Deep Learning, and Generative AI**, while continuously strengthening my foundations in Python, statistics, and data analysis.
+
+✨ I believe in learning by **building projects, experimenting with models, and understanding the concepts behind the code**.
+
+---
+
+## 🌸 My AI Journey
+
+```text
+🐍 Python & OOP
+        ↓
+📊 Data Analysis
+        ↓
+📐 Statistics & Probability
+        ↓
+🤖 Machine Learning
+        ↓
+🧠 Deep Learning
+        ↓
+✨ LLMs & Generative AI
+```
+
+---
+
+## 🎀 Currently Learning
+
+- 🐍 Python & Object-Oriented Programming
+- 📊 Data Analysis & Data Visualization
+- 📐 Statistics & Probability
+- 🤖 Machine Learning
+- 🧠 Deep Learning
+- ✨ Large Language Models
+- 💫 Generative AI
+- 🧩 AI System Design & Development
+
+---
+
+## 🧰 Tech Toolbox
+
+### 💻 Programming
+![Python](https://img.shields.io/badge/Python-FFD6E7?style=for-the-badge&logo=python&logoColor=3776AB)
+![C++](https://img.shields.io/badge/C++-FFD6E7?style=for-the-badge&logo=cplusplus&logoColor=00599C)
+![C](https://img.shields.io/badge/C-FFD6E7?style=for-the-badge&logo=c&logoColor=00599C)
+
+### 📊 Data Science
+![NumPy](https://img.shields.io/badge/NumPy-FCE4EC?style=for-the-badge&logo=numpy&logoColor=013243)
+![Pandas](https://img.shields.io/badge/Pandas-FCE4EC?style=for-the-badge&logo=pandas&logoColor=150458)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-FCE4EC?style=for-the-badge&logo=python&logoColor=11557C)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-FCE4EC?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
+
+### 🤖 AI & Machine Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-E8DFF5?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+![Keras](https://img.shields.io/badge/Keras-E8DFF5?style=for-the-badge&logo=keras&logoColor=D00000)
+![XGBoost](https://img.shields.io/badge/XGBoost-E8DFF5?style=for-the-badge&logo=xgboost&logoColor=006600)
+
+### 🛠️ Tools
+![Git](https://img.shields.io/badge/Git-FADADD?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-FADADD?style=for-the-badge&logo=github&logoColor=181717)
+![VS Code](https://img.shields.io/badge/VS%20Code-FADADD?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+![Linux](https://img.shields.io/badge/Linux-FADADD?style=for-the-badge&logo=linux&logoColor=FCC624)
+
+---
+
+## 🌷 Featured Projects
+
+### 🏠 Bangalore Home Price Prediction
+
+A Machine Learning project that predicts house prices based on features such as:
+
+- 📐 Area
+- 🛁 Number of bathrooms
+- 🛏️ Number of bedrooms
+- 📍 Location
+
+**Technologies:**  
+`Python` `Pandas` `NumPy` `Scikit-learn` `Linear Regression`
+
+---
+
+### 🍷 Wine Classification
+
+A classification project using the **Wine dataset** to classify wines into three different categories.
+
+**Technologies:**  
+`Python` `Scikit-learn` `Machine Learning` `Classification`
+
+---
+
+### 🧠 Deep Learning Experiments
+
+Hands-on experiments with neural networks and different deep learning concepts, including:
+
+- Neural Networks
+- Keras Sequential Models
+- Activation Functions
+- Optimizers
+- Batch Normalization
+- Dropout
+- Model Training
+
+**Technologies:**  
+`Python` `TensorFlow` `Keras`
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=rose_pine&hide_border=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=rose_pine&hide_border=true" height="170"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=rose_pine&hide_border=true"/>
+
+</p>
+
+---
+
+## 🌸 Beyond Code
+
+📚 Reading and learning about **AI & technology**
+
+🎨 Drawing and exploring creativity
+
+💡 Exploring new ideas and experimenting with projects
+
+🌱 Always learning something new
+
+---
+
+## 💌 Let's Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/merna-atef-4252aa287">
+<img src="https://img.shields.io/badge/LinkedIn-F8BBD0?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+
+<a href="mailto:merna.atef@ieee-zsb.org">
+<img src="https://img.shields.io/badge/Email-F8BBD0?style=for-the-badge&logo=gmail&logoColor=D14836"/>
+</a>
+
+<a href="https://discord.com/users/1177515053612810240">
+<img src="https://img.shields.io/badge/Discord-F8BBD0?style=for-the-badge&logo=discord&logoColor=5865F2"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### 🎀 Learning. Building. Experimenting. Growing.
+
+**💗 AI × Data × Curiosity = ✨**
+
+</p>
