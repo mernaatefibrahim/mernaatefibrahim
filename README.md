@@ -4,6 +4,10 @@
 ### 🎓 Computer Engineering Student
 ### 🤖 Machine Learning Explorer
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!+%F0%9F%8E%80;AI+%26+Data+Science+Enthusiast+%F0%9F%92%97;Machine+Learning+Explorer+%F0%9F%A4%96;Always+Learning%2C+Always+Building+%E2%9C%A8" />
+</p>
+
 > 💗 Learning, building, and turning data into intelligent solutions.
 
 ---
@@ -22,19 +26,21 @@
 
 ## 🌸 My AI Journey
 
-```text
-🐍 Python & OOP
-        ↓
-📊 Data Analysis
-        ↓
-📐 Statistics & Probability
-        ↓
-🤖 Machine Learning
-        ↓
-🧠 Deep Learning
-        ↓
-✨ LLMs & Generative AI
-```
+<p align="center">
+
+🐍 **Python & OOP**  
+⬇️  
+📊 **Data Analysis**  
+⬇️  
+📐 **Statistics & Probability**  
+⬇️  
+🤖 **Machine Learning**  
+⬇️  
+🧠 **Deep Learning**  
+⬇️  
+✨ **LLMs & Generative AI**
+
+</p>
 
 ---
 
@@ -54,22 +60,26 @@
 ## 🧰 Tech Toolbox
 
 ### 💻 Programming
+
 ![Python](https://img.shields.io/badge/Python-FFD6E7?style=for-the-badge&logo=python&logoColor=3776AB)
 ![C++](https://img.shields.io/badge/C++-FFD6E7?style=for-the-badge&logo=cplusplus&logoColor=00599C)
 ![C](https://img.shields.io/badge/C-FFD6E7?style=for-the-badge&logo=c&logoColor=00599C)
 
 ### 📊 Data Science
+
 ![NumPy](https://img.shields.io/badge/NumPy-FCE4EC?style=for-the-badge&logo=numpy&logoColor=013243)
 ![Pandas](https://img.shields.io/badge/Pandas-FCE4EC?style=for-the-badge&logo=pandas&logoColor=150458)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-FCE4EC?style=for-the-badge&logo=python&logoColor=11557C)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-FCE4EC?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
 
 ### 🤖 AI & Machine Learning
+
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-E8DFF5?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
 ![Keras](https://img.shields.io/badge/Keras-E8DFF5?style=for-the-badge&logo=keras&logoColor=D00000)
 ![XGBoost](https://img.shields.io/badge/XGBoost-E8DFF5?style=for-the-badge&logo=xgboost&logoColor=006600)
 
 ### 🛠️ Tools
+
 ![Git](https://img.shields.io/badge/Git-FADADD?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-FADADD?style=for-the-badge&logo=github&logoColor=181717)
 ![VS Code](https://img.shields.io/badge/VS%20Code-FADADD?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
@@ -81,7 +91,7 @@
 
 ### 🏠 Bangalore Home Price Prediction
 
-A Machine Learning project that predicts house prices based on features such as:
+A Machine Learning project that predicts house prices based on:
 
 - 📐 Area
 - 🛁 Number of bathrooms
@@ -90,15 +100,6 @@ A Machine Learning project that predicts house prices based on features such as:
 
 **Technologies:**  
 `Python` `Pandas` `NumPy` `Scikit-learn` `Linear Regression`
-
----
-
-### 🍷 Wine Classification
-
-A classification project using the **Wine dataset** to classify wines into three different categories.
-
-**Technologies:**  
-`Python` `Scikit-learn` `Machine Learning` `Classification`
 
 ---
 
@@ -143,13 +144,14 @@ Hands-on experiments with neural networks and different deep learning concepts, 
 
 ## 🌸 Beyond Code
 
-📚 Reading and learning about **AI & technology**
+<p align="center">
 
-🎨 Drawing and exploring creativity
+📚 Reading & Learning &nbsp; • &nbsp;
+🎨 Drawing &nbsp; • &nbsp;
+💡 Exploring Ideas &nbsp; • &nbsp;
+🌱 Growing
 
-💡 Exploring new ideas and experimenting with projects
-
-🌱 Always learning something new
+</p>
 
 ---
 
@@ -174,6 +176,8 @@ Hands-on experiments with neural networks and different deep learning concepts, 
 ---
 
 <p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F8BBD0&height=100&section=footer"/>
 
 ### 🎀 Learning. Building. Experimenting. Growing.
 
